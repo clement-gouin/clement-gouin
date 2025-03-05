@@ -12,7 +12,7 @@
 | **[curriculum](https://clement-gouin.github.io/curriculum/)** <sub> ([repo](https://github.com/clement-gouin/curriculum)) </sub> | Curriculum vitæ | 2025 |
 | **[z-app](https://clement-gouin.github.io/z-app/)** <sub> ([repo](https://github.com/clement-gouin/z-app)) </sub> | Working template for URL encoded app | 2025 |
 | **[z-dice-roller](https://clement-gouin.github.io/z-dice-roller/)** <sub> ([repo](https://github.com/clement-gouin/z-dice-roller)) </sub> | When rolling decides your fate | 2025 |
-| **[bingo](https://clement-gouin.github.io/bingo/)** <sub> ([repo](https://github.com/clement-gouin/bingo)) </sub> | None | 2025 |
+| **[bingo](https://clement-gouin.github.io/bingo/)** <sub> ([repo](https://github.com/clement-gouin/bingo)) </sub> | Bingo factory made easy | 2025 |
 | **[z-cross-roads](https://clement-gouin.github.io/z-cross-roads/)** <sub> ([repo](https://github.com/clement-gouin/z-cross-roads)) </sub> | Where will you go next? | 2024 |
 | **[z-on-the-quizz](https://clement-gouin.github.io/z-on-the-quizz/)** <sub> ([repo](https://github.com/clement-gouin/z-on-the-quizz)) </sub> | When you need quizzes on the go ! | 2024 |
 | **[z-treasure-finder](https://clement-gouin.github.io/z-treasure-finder/)** <sub> ([repo](https://github.com/clement-gouin/z-treasure-finder)) </sub> | Maybe the real treasure is the friends we make along the way | 2024 |
